@@ -1,7 +1,7 @@
 # Welcome
 
 Hi, this is SendToGPTtrainer.
-This program can help you add scources to your chatbot in GPT-trainer.
+This program can help you add sources to your chatbot in GPT-trainer.
 
 Simply right-click the file or folder you want to add, and click "Send to GPT-trainer".
 If there is already a file with the same name in the database, you will be prompted for options.
